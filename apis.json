@@ -1,0 +1,61 @@
+{
+    "name": "Datical",
+    "description": "The database release velocity gap is slowing application release. Get started today & release applications faster with Datical's database release automation tools!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28202-www-datical-com.jpg",
+    "tags": [
+        "api service provider",
+        "databases",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datical\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Datical",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28202-www-datical-com.jpg",
+            "humanURL": "https:\/\/www.datical.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datical-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/datical"
+        },
+        {
+            "type": "Email",
+            "url": "info@datical.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@datical.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@Datical.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@Datical.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Datical"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.datical.com"
+        }
+    ]
+}
